@@ -1,0 +1,7 @@
+/* import font in tailwind */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,500;1,400&family=Playfair+Display&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
